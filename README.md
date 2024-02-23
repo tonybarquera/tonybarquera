@@ -6,10 +6,10 @@
 
 ### About Me ✨
 - Computer Systems Engineer 🖥️
-- 22 Years 
-- Mexican/American
-- Competitive Programmer
-  - OMI 2019 | Coding Cup TecNM 2020 - 2021 - 2022 - 2023 
+- 22 Years ⭐
+- Mexican/American 🇲🇽🇺🇸
+- Competitive Programmer ⛳
+  - OMI 2019 | Coding Cup TecNM 2020 - 2021 - 2022 - 2023 🥉
 
 ##
 ### Skills ⚡

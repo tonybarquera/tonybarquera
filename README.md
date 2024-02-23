@@ -1,15 +1,19 @@
 ## Hi, I'm Tony 💙
 
-<p align="center" width="400"> 
+<p align="center"> 
   <img align="center" alt="my photo" src="profile-min.jpg" width="350" height="373">
 </p>
 
-### About Me ✨
-- Computer Systems Engineer 🖥️
-- 22 Years ⭐
-- Mexican/American 🇲🇽🇺🇸
-- Competitive Programmer ⛳
-  - OMI 2019 | Coding Cup TecNM 2020 - 2021 - 2022 - 2023 🥉
+<h3>About Me ✨<h3>
+<ul>
+  <li>Computer Systems Engineer 🖥️</li>
+  <li>22 Years ⭐</li>
+  <li>Mexican/American 🇲🇽🇺🇸</li>
+  <li>Competitive Programmer ⛳</li>
+  <ul>
+    <li>OMI 2019 | Coding Cup TecNM 2020 - 2021 - 2022 - 2023 🥉</li>
+  </ul>
+</ul>
 
 ##
 ### Skills ⚡

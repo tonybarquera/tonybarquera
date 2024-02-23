@@ -1,9 +1,17 @@
 ## Hi, I'm Tony 💙
 
-<figure align="center" width="400">
-  <img align="center" alt="my photo" src="profile-min.jpg" width="350" height="373">
+<figure align="center">
+  <img alt="my photo" src="profile-min.jpg" width="350" height="373">
 </figure>
 
+### About Me ✨
+- Computer Systems Engineer 🖥️
+- 22 Years 
+- Mexican/American
+- Competitive Programmer
+  - OMI 2019 | Coding Cup TecNM 2020 - 2021 - 2022 - 2023 
+
+##
 ### Skills ⚡
 ![Static Badge](https://img.shields.io/badge/JavaScript-0?style=flat&logo=JavaScript&color=%23000)
 ![Static Badge](https://img.shields.io/badge/TypeScript-0?style=flat&logo=TypeScript&color=%23000)
@@ -16,6 +24,7 @@
 ![Static Badge](https://img.shields.io/badge/Git-0?style=flat&logo=Git&color=%23000)
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-0?style=flat&logo=Cplusplus&color=%23000)
 
+##
 ### OS 💻
 ![Static Badge](https://img.shields.io/badge/Windows-0?style=flat&logo=Windows&color=%23000)
 ![Static Badge](https://img.shields.io/badge/Linux-0?style=flat&logo=Linux&logoColor=%23FFF&color=%23000)

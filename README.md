@@ -1,7 +1,7 @@
 ## Hi, I'm Tony 💙
 
-<figure align="center">
-  <img align="center" alt="my photo" src="profile-min.jpg" width="380" height="405">
+<figure align="center" width="400">
+  <img align="center" alt="my photo" src="profile-min.jpg" width="350" height="373">
 </figure>
 
 ### Skills ⚡

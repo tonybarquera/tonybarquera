@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Static Badge](https://img.shields.io/badge/docker)
-
+![Static Badge](https://img.shields.io/badge/Docker-000000?style=flat&logo=Docker&color=%23a3cdf3)
 
 <!--
 **tonybarquera/tonybarquera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ## Hi, I'm Tony 💙
 
-<figure align="center" width="400"> 
+<p align="center" width="400"> 
   <img align="center" alt="my photo" src="profile-min.jpg" width="350" height="373">
-</figure>
+</p>
 
 ### About Me ✨
 - Computer Systems Engineer 🖥️

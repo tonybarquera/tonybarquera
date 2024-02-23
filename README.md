@@ -1,6 +1,6 @@
 ## Hi, I'm Tony 💙
 
-<img align="center" alt="my photo" src="profile-min.jpg" width="300" height="300">
+<img align="center" alt="my photo" src="profile-min.jpg" width="450" height="480">
 
 ### Skills ⚡
 ![Static Badge](https://img.shields.io/badge/JavaScript-0?style=flat&logo=JavaScript&color=%23000)

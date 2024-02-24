@@ -32,3 +32,9 @@
 ### OS 💻
 ![Static Badge](https://img.shields.io/badge/Windows-0?style=flat&logo=Windows&color=%23000)
 ![Static Badge](https://img.shields.io/badge/Linux-0?style=flat&logo=Linux&logoColor=%23FFF&color=%23000)
+
+##
+### Top Languages 🎈
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonybarquera&layout=compact&theme=radical">
+</div>
